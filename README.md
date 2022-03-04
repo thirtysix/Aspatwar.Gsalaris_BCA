@@ -39,7 +39,7 @@ Miniconda is the barebones version of the larger Conda package. We will use this
     $ tar -xvf ./Gblocks_Linux64_0.91b.tar
 ```
 
-## 2.6 Enable executing as a program: Muscle 5.1 and USEARCH
+## 2.6 Enable executing as a program: Muscle and USEARCH
 ```
     $ chmod +x muscle5.1.linux_intel64
     $ chmod +x usearch11.0.667_i86linux32
@@ -50,7 +50,7 @@ Miniconda is the barebones version of the larger Conda package. We will use this
     $ ./usearch11.0.667_i86linux32 -cluster_fast ../01.data_raw/UniProt_BLAST_results.fasta -id 0.80 -centroids ../02.data/UniProt_BLAST_results.centroids.fasta
 ```
 
-## 2.8 Filter out entries which are not BCAs and align using Muscle5.1
+## 2.8 Filter out entries which are not BCAs and align using Muscle
 ```
     $ python3 001.clean_CAs.py
 ```
