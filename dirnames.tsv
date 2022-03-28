@@ -1,0 +1,4 @@
+dirname_var	rel_path
+data_raw_dn	../01.data_raw
+data_dn	../02.data
+output_dn	../03.output
