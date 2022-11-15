@@ -3,7 +3,7 @@
 ## Aspatwar et al. Gyrodactylus salaris BCA phylogenetic analysis
 
 # 1. Background
-This repository provides Python scripts used to perform analyses and generate images for the pre-print article found at [biorxiv](https://www.biorxiv.org/).
+This repository provides Python scripts used to perform analyses and generate images for the now published article: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9176631/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9176631/).
 
 ---
 ---
